@@ -33,7 +33,7 @@ The **AI Dungeon Master** is a modular system built to demonstrate:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-dungeon-master.git
+git clone https://github.com/SOWAVE/ai-dungeon-master.git
 cd ai-dungeon-master
 ```
 
