@@ -137,6 +137,9 @@ demo.launch(share=True)
 
 This launches a real-time web interface to play interactively with your Dungeon Master.
 
+<img width="1554" height="413" alt="{C276E9F2-5C7C-4D27-8213-80398E96B6E8}" src="https://github.com/user-attachments/assets/67d575a1-21ff-4416-981c-2ef22e6b45b7" />
+
+
 ---
 
 ## 🧩 Key Technologies
